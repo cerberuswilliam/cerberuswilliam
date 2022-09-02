@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerberuswilliam)](https://github.com/cerberuswilliam/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/cerberuswilliam/count.svg)
 ![cerberuswilliam's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerberuswilliam&show_icons=true&theme=tokyonight)
-![decription](https://img.shields.io/badge/tools-pycharm-green)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![decription](https://img.shields.io/badge/tools-pycharm-green)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 ![decription](https://img.shields.io/badge/tools-pycharm-green)
